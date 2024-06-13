@@ -1,3 +1,7 @@
+
+2024-06-14  [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://inf.run/hivx6)
+
+
 java restart~
 
 [점프 투 스프링부트](https://wikidocs.net/book/7601)
