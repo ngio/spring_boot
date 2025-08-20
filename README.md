@@ -13,3 +13,21 @@ Githut : https://github.com/pahkey/sbb3
 
 https://www.inflearn.com/courses/it-programming/back-end
 
+
+
+
+### JDK 다운로드
+
+- Java 17 GA 버전 다운로드:
+    
+    🔗 https://jdk.java.net/archive/
+
+### JDK 압축 해제
+
+- 다운로드한 `.zip` 파일을 원하는 위치에 압축 해제
+    - 예: `C:\Program Files\java\jdk-17`
+ 
+
+인텔리J  설치 커뮤니티 버전 2025.2
+다운로드 사이트 : https://www.jetbrains.com/idea/
+
