@@ -35,5 +35,27 @@ https://www.inflearn.com/courses/it-programming/back-end
 
 
 
+인텔리J 커뮤니티 버전일때 스프링 셋팅법 
+신규 프로젝트 생성 방법
+
+참고 블로그
+
+[https://velog.io/@kdohyeon/프로젝트-셋업-IntelliJ-커뮤니티-버전에서-스프링부트-어플리케이션-실행하기](https://velog.io/@kdohyeon/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%85%8B%EC%97%85-IntelliJ-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EB%B2%84%EC%A0%84%EC%97%90%EC%84%9C-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0) 
+
+1. https://start.spring.io/ 접속
+
+![123123123123.png](attachment:09152c5a-946b-4f83-a011-7ceb164eb478:123123123123.png)
+
+언어,버전 등등 선택
+
+Generate 버튼 클릭 후 zip 파일 다운로드
+
+[demo 파일 (개인프로젝트) 업로드 하는 방법]
+
+zip 파일 압축해제하기
+
+intellij 접속 후 File > Open 클릭 후 압축해제한 zip(demo 폴더) 선택
+
+
 
 
