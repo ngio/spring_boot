@@ -28,6 +28,12 @@ https://www.inflearn.com/courses/it-programming/back-end
     - 예: `C:\Program Files\java\jdk-17`
  
 
-인텔리J  설치 커뮤니티 버전 2025.2
+인텔리J  intellij 설치 커뮤니티 버전 2025.2
 다운로드 사이트 : https://www.jetbrains.com/idea/
+
+<img width="917" height="513" alt="image" src="https://github.com/user-attachments/assets/91cc6d21-9fd1-4e68-b8a3-b3e59b6b22a6" />
+
+
+
+
 
