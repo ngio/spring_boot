@@ -13,7 +13,7 @@ Githut : https://github.com/pahkey/sbb3
 
 https://www.inflearn.com/courses/it-programming/back-end
 
-
+---
 
 
 ### JDK 다운로드
@@ -34,6 +34,7 @@ https://www.inflearn.com/courses/it-programming/back-end
 <img width="917" height="513" alt="image" src="https://github.com/user-attachments/assets/91cc6d21-9fd1-4e68-b8a3-b3e59b6b22a6" />
 
 
+---
 
 인텔리J 커뮤니티 버전일때 스프링 셋팅법 
 신규 프로젝트 생성 방법
